@@ -1,0 +1,4 @@
+https://github.com/openstf/android-libjpeg-turbo
+commande pour la compilation: 
+-cd "dossier android-libjpeg-turbo-master"
+-ndk-build APP_BUILD_SCRIPT=./Android.mk APP_PLATFORM=android-28
